@@ -9,7 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <input type="file" id="img" name="img" accept="image/*"></input>
+        <input type="file" id="img" name="img" accept="video/*"></input>
         <a
           className="App-link"
           href="https://reactjs.org"
